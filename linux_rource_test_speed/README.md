@@ -9,9 +9,10 @@ bash speed.sh
 选择相应的linux发行版本->Enter
 
 # 注意
-如果没有bc工具请先安装它，
-apt-get install bc
+如果没有bc工具请先安装它：   
+apt-get install bc   
 yum install bc
+
 
 # 运行结果
 ![test_speed run](https://github.com/m1m1cat/small-script/blob/main/linux_rource_test_speed/speed.png)
