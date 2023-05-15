@@ -14,3 +14,4 @@ apt-get install bc
 yum install bc
 
 # 运行结果
+![test_speed run](https://github.com/m1m1cat/small-script/blob/main/linux_rource_test_speed/speed.png)
