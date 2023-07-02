@@ -4,7 +4,7 @@
 # 用法
 
 ```
-usage: validate_urls.py [-h] [-t TIMEOUT] input_file output_file
+usage: http_alive.py [-h] [-t TIMEOUT] input_file output_file
 
 Validate URLs in a text file
 
