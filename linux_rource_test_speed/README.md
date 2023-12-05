@@ -16,3 +16,9 @@ yum install bc
 
 # 运行结果
 ![test_speed run](https://github.com/m1m1cat/small-script/blob/main/linux_rource_test_speed/speed.png)
+
+
+# 可搭配脚本
+快捷自动更换源
+作者:Ralph
+https://jihulab.com/rami/linux_tools/-/raw/main/UpdateLinuxSourceCN.sh
